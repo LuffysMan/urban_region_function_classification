@@ -101,6 +101,8 @@ venv.bak/
 /site
 
 # mypy
+test.py
+
 .mypy_cache/
 data/
 unused/
